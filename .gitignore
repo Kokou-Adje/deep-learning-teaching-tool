@@ -1,0 +1,9 @@
+﻿venv/
+venv_teaching/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+.streamlit/
