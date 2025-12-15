@@ -2,15 +2,15 @@
 """Visualization and UI components"""
 
 from .visualization import (
-    plot_decision_boundary,
-    plot_loss_curve,
-    plot_network_architecture,
+    decision_boundary_plot,
+    loss_curve_plot,
+    network_architecture_plot,
     display_metrics
 )
 
 __all__ = [
-    'plot_decision_boundary',
-    'plot_loss_curve',
-    'plot_network_architecture',
+    'decision_boundary_plot',
+    'loss_curve_plot',
+    'network_architecture_plot',
     'display_metrics'
 ]

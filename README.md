@@ -1,6 +1,6 @@
 # 🎓 Deep Learning Teaching Tool
 
-> Interactive Neural Network Backpropagation Visualizer  
+> GradientMonitoring: Real-Time Neural Network Learning Platform
 > CS7050: Data Warehousing & Mining - Fall 2025  
 > Kennesaw State University
 
@@ -197,8 +197,6 @@ This tool helps students understand:
 5. Set main file: `app.py`
 6. Click "Deploy"
 
-Your app will be available at: `https://yourusername-deep-learning-teaching-tool.streamlit.app`
-
 ### Local Deployment
 
 ```bash
@@ -247,10 +245,10 @@ This project is for educational purposes as part of CS7050 coursework.
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Kokou Adje**  
 CS7050 - Fall 2025  
 Kennesaw State University  
-Email: your.email@students.kennesaw.edu
+Email: kadje@students.kennesaw.edu
 
 ## 🙏 Acknowledgments
 
@@ -261,6 +259,5 @@ Email: your.email@students.kennesaw.edu
 ---
 
 **Project Name**: Deep Learning Teaching Tool  
-**Repository**: https://github.com/yourusername/deep-learning-teaching-tool  
-**Live Demo**: [Add your Streamlit Cloud URL here]  
-**Last Updated**: December 2024
+**Repository**: https://github.com/Kokou-Adje/deep-learning-teaching-tool
+**Last Updated**: December 2025
